@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Assignment</string>
+    <string name="title">Trending</string>
+    <string name="content">Represt user icon</string>
+    <string name="action_settings">Settings</string>
+    <string name="sort_by_star">Sort by stars</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="somthing_went_wrong">Something went wrong...</string>
+    <string name="went_wrong_message">An alien is probably blocking your signal.</string>
+    <string name="retry">RETRY</string>
+    <string name="textview">TextView</string>
+    <string name="star_img">Star Image</string>
+    <string name="fork_img">Fork Image</string>
+    <string name="error_image">Error Image</string>
 </resources>
